@@ -12,6 +12,7 @@ int main()
 	{
 		result *=i;
 	}
-	
+	# fasjfkdajfkdajfka
+	fjdkajfkdajfdkaf
 	printf("Result of factorial is %d", result);
 }

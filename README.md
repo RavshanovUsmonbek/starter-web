@@ -19,6 +19,6 @@ Sample website with plenty of files for demos
 ### Smiths family
 
 
-## HI
+## MASTER'S Version
 ## HI_2
 ## HI_3

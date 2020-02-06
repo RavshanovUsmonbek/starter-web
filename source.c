@@ -2,6 +2,7 @@
 
 int main()
 {
+	print("HIGH PRIORITY")
 	printf("Hello Usmonbek\n");
 	int num;
 	printf("Enter a number: ");

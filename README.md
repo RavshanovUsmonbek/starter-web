@@ -15,11 +15,6 @@ Sample website with plenty of files for demos
 ### Ravshanovs family
 ### Smiths family
 ## MASTER'S Version
-## HI_2
-## HI_3
-## MASTER'S Version
-## HI_2
-## HI_3
-## MASTER'S Version
-## HI_2
-## HI_3
+
+
+### ALL STASHED
